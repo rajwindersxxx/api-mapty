@@ -1,0 +1,5 @@
+GET http://api.tiven.xyz/geocode?log=31&lat=74
+###
+GET http://api.tiven.xyz/getAddress?lat=31.621&log=74.8779
+###
+GET http://api.tiven.xyz/forecast?lat=31.621&log=74.8779
